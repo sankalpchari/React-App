@@ -8,9 +8,8 @@
     "node": "10.8.0"
   },
   "scripts": {
-    "start": "webpack-dev-server --mode development --open --hot",
-    "build": "webpack --mode production"
-  },
+    "start": "webpack-dev-server --mode production --open --hot"
+      },
   "author": "",
   "license": "ISC",
   "dependencies": {
